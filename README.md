@@ -1,9 +1,7 @@
-Schema del JSON del CV
-https://jsonresume.org/schema/
+Schema of the JSON CV: https://jsonresume.org/schema/
 
-Basado en el diseño de:
-https://github.com/BartoszJarocki/cv
+Based on the design of: https://github.com/BartoszJarocki/cv
 
-Edita el archivo `cv.json` para crear tu propio Portafolio/CV imprimible.
+Edit the cv.json file to create your own printable Portfolio/CV.
 
 Demo: https://bruno-rossani-cv.netlify.app/
