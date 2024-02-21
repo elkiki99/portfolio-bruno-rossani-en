@@ -216,18 +216,20 @@
           "isActive": true,
           "description": "Website for a design conference with payment gateways and user registration.",
           "highlights": [
-              "In development"
+              "JSON Integration",
+              "PayPal API",
+              "AJAX API and PHP"
           ],
-          "url": ""
+          "url": "https://github.com/elkiki99/devwebcamp"
       },
       {
         "name": "UpTask",
-            "isActive": true,
+            "isActive": "",
             "description": "Project manager in to-do list style",
             "highlights": [
                 "Fetch API",
-                "Responsive Design",
-                "AJAX API and PHP"
+                "Token authentication",
+                "MySQL and OOP"
             ],
             "url": "https://github.com/elkiki99/UpTask_MVC"
         },
@@ -237,7 +239,7 @@
             "description": "Project for a beauty salon with authentication and appointment booking",
             "highlights": [
                 "Admin panel",
-                "Token auth",
+                "Responsive Design",
                 "JavaScript & MVC"
             ],
             "url": "https://github.com/elkiki99/appsalon-mvc-php"
@@ -248,8 +250,8 @@
             "description": "Real Estate management project with blog area, properties, and user management",
             "highlights": [
                 "Database queries",
-                "CRUD panel for admin",
-                "MySQL and OOP"
+                "CRUD panel for Admin",
+                "User Authentication"
             ],
             "url": "https://github.com/elkiki99/bienes-raices-mvc-oop"
         }
