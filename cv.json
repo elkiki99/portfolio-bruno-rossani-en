@@ -1,12 +1,12 @@
 {
   "basics": {
       "name": "Bruno Rossani",
-      "keyword": "Web Developer Jr.",
-      "label": "Junior Web Developer with +1 year of experience, specialized in Back End development of applications",
+      "keyword": "Full Stack Developer / Software Developer",
+      "label": "Full Stack Developer | Software Developer",
       "image": "/me.webp",
       "email": "brossani23@gmail.com",
       "phone": "+598 91 845 585",
-      "summary": "Junior web developer passionate about technology and problem-solving. Committed to continuous learning and creating innovative solutions. I find satisfaction in overcoming challenges and have a deep fascination for the tech world.",
+      "summary": "Diligent Full Stack Developer with a strong commitment to excellence and + 1 year of dedicated experience in Back End development. Passionate about crafting sophisticated web applications and solutions that resonate with users and drive business success. Committed to continuous improvement and delivering projects with the utmost effort.",
       "location": {
           "address": "Isla de Flores y Salto",
           "postalCode": "11200",
@@ -33,7 +33,7 @@
           "position": "Full-Stack Developer",
           "startDate": "2023",
           "endDate": "",
-          "summary": "During this period, I have created various websites and applications using a variety of key tools and languages, including HTML, CSS, SASS, JavaScript, PHP, and technologies such as AJAX, MySQL, and Node.js, among others.",
+          "summary": "Focused on implementing modern web technologies to deliver quality solutions. During this period, I have created various websites and applications using a variety of key tools and languages, including HTML, CSS, SASS, JavaScript, PHP, and technologies such as AJAX, MySQL, and Node.js, among others.",
           "highlights": [
               "Led the implementation of PayPal payment gateways and token-based authentication systems to ensure transaction security across multiple projects.",
               "Supervised the implementation of web optimization strategies, including lazy loading, caching, and reducing HTTP requests, significantly improving load times and user experience in application development.",
