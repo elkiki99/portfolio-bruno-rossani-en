@@ -28,7 +28,7 @@
       ]
   },
   "work": [
-      {
+        {
           "name": "Freelance",
           "position": "Full-Stack Developer",
           "startDate": "2023",
@@ -39,7 +39,7 @@
               "Supervised the implementation of web optimization strategies, including lazy loading, caching, and reducing HTTP requests, significantly improving load times and user experience in application development.",
               "Led the development of admin panels, offering efficient content, user, and data management."
           ]
-      }
+        }
   ],
   "education": [
       {
