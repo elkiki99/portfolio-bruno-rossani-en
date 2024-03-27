@@ -77,112 +77,140 @@
       }
   ],
   "skills": [
-      {
-          "name": "HTML",
-          "level": "Intermediate",
-          "keywords": [
-              "Web Development",
-              "Frontend"
-          ]
-      },
-      {
-          "name": "CSS",
-          "level": "Intermediate",
-          "keywords": [
-              "Web Development",
-              "Frontend",
-              "Responsive Design"
-          ]
-      },
-      {
-          "name": "SASS",
-          "level": "Intermediate",
-          "keywords": [
-              "Web Development",
-              "Frontend",
-              "Responsive Design"
-          ]
-      },
-      {
-          "name": "JavaScript",
-          "level": "Intermediate",
-          "keywords": [
-              "Web Development",
-              "Frontend",
-              "Backend",
-              "Fullstack"
-          ]
-      },
-      {
-          "name": "Node",
-          "level": "Intermediate",
-          "keywords": [
-              "Web Development",
-              "Backend",
-              "JavaScript",
-              "Server"
-          ]
-      },
-      {
-          "name": "PHP",
-          "level": "Intermediate",
-          "keywords": [
-              "Web Development",
-              "Backend",
-              "JavaScript",
-              "Server"
-          ]
-      },
-      {
-          "name": "MySQL",
-          "level": "Intermediate",
-          "keywords": [
-              "Databases",
-              "SQL",
-              "Data Storage",
-              "Backend"
-          ]
-      },
-      {
-          "name": "AJAX API",
-          "level": "Intermediate",
-          "keywords": [
-              "Databases",
-              "Request",
-              "Data Storage",
-              "Backend"
-          ]
-      },
-      {
-          "name": "MVC",
-          "level": "Intermediate",
-          "keywords": [
-              "Routing",
-              "User Interface",
-              "Adaptability",
-              "Scalability"
-          ]
-      },
-      {
-          "name": "OOP",
-          "level": "Intermediate",
-          "keywords": [
-              "Inheritance",
-              "Polymorphism",
-              "Abstraction",
-              "Method"
-          ]
-      },
-      {
-          "name": "GitHub",
-          "level": "Intermediate",
-          "keywords": [
-              "Version Control",
-              "Collaboration",
-              "Source Code",
-              "Git"
-          ]
-      }
+    {
+      "name": "HTML",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend"
+      ]
+    },
+    {
+      "name": "CSS",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "Responsive Design"
+      ]
+    },
+    {
+      "name": "SASS",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "Responsive Design"
+      ]
+    },
+    {
+      "name": "Tailwind",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "Responsive Design"
+      ]
+    },
+    {
+      "name": "Laravel",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Backend",
+        "Framework"
+      ]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "Backend",
+        "Fullstack"
+      ]
+    },
+    {
+      "name": "Node",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Backend",
+        "JavaScript",
+        "Server"
+      ]
+    },
+    {
+      "name": "Livewire",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Backend",
+        "JavaScript",
+        "Server"
+      ]
+    },
+    {
+      "name": "PHP",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Backend",
+        "JavaScript",
+        "Server"
+      ]
+    },
+    {
+      "name": "MySQL",
+      "level": "Intermediate",
+      "keywords": [
+        "Databases",
+        "SQL",
+        "Data Storage",
+        "Backend"
+      ]
+    },
+    {
+      "name": "AJAX API",
+      "level": "Intermediate",
+      "keywords": [
+        "Databases",
+        "Request",
+        "Data Storage",
+        "Backend"
+      ]
+    },
+    {
+      "name": "MVC",
+      "level": "Intermediate",
+      "keywords": [
+        "Routing",
+        "User Interface",
+        "Adaptability",
+        "Scalability"
+      ]
+    },
+    {
+      "name": "OOP",
+      "level": "Intermediate",
+      "keywords": [
+        "Inheritance",
+        "Polymorphism",
+        "Abstraction",
+        "Method"
+      ]
+    },
+    {
+      "name": "GitHub",
+      "level": "Intermediate",
+      "keywords": [
+        "Version Control",
+        "Collaboration",
+        "Source Code",
+        "Git"
+      ]
+    }
   ],
   "languages": [
       {
@@ -211,9 +239,31 @@
       }
   ],
   "projects": [
+    {
+        "name":"DevStagram",
+        "isActive":true,
+        "description":"A semi-clone of Instagram with user authentication, user panel, and CRUD operations.",
+        "highlights":[
+          "Livewire",
+          "User panel",
+          "Tailwind CSS"
+        ],
+        "url":"https://github.com/elkiki99/devstagram"
+      },
+      {
+        "name":"DevJobs",
+        "isActive":false,
+        "description":"A Laravel application built with Blade and Tailwind CSS for job search and application.",
+        "highlights":[
+          "Laravel",
+          "Search Filters",
+          "Blade"
+        ],
+        "url":"https://github.com/elkiki99/devjobs"
+      },
       {
           "name": "DevWebCamp",
-          "isActive": true,
+          "isActive": false,
           "description": "Website for a design conference with payment gateways and user registration.",
           "highlights": [
               "JSON Integration",
