@@ -35,7 +35,7 @@
           "endDate": "",
           "summary": "I focus on implementing modern web technologies to deliver quality solutions. I have created several websites and applications using a variety of key tools and languages, including HTML, CSS, SASS, JavaScript, and technologies like AJAX, MySQL, and Node.js, although undoubtedly my favorite language/framework is PHP/Laravel.",
           "highlights": [
-              "Led the implementation of PayPal payment gateways and token-based authentication systems to ensure transaction security in multiple projects.",
+              "Led the implementation of PayPal payment gateways and token-based authentication systems to ensure transaction security in multiple projects with Stripe.",
               "Supervised the implementation of web optimization strategies, including lazy loading, caching, and reducing HTTP requests, significantly improving loading times and user experience in application development.",
               "Led the development of administration panels, offering efficient content, user, and data management."
           ]
@@ -153,12 +153,22 @@
         ]
       },
       {
-        "name": "AJAX API",
+        "name": "SQLite",
         "level": "Intermediate",
         "keywords": [
           "Databases",
-          "Request",
+          "SQL",
           "Data Storage",
+          "Backend"
+        ]
+      },
+      {
+        "name": "TALL Stack",
+        "level": "Intermediate",
+        "keywords": [
+          "Framework",
+          "Server",
+          "API",
           "Backend"
         ]
       },
@@ -252,7 +262,7 @@
     {
         "name": "Guitar",
         "keywords": [
-        "Music",
+        "Classical music",
         "Instruments"
         ]
     },
@@ -266,24 +276,46 @@
     ],
     "projects":[
       {
-        "name":"DevStagram",
+        "name":"Chat App",
         "isActive":true,
+        "description":"A real-time chat application inspired by WhatsApp Web, built with the TALL Stack and WebSockets for seamless messaging.",
+        "highlights":[
+          "Live chat",
+          "Message notifications",
+          "Private messaging"
+        ],
+        "url":"https://chat-spring-star-2575.fly.dev/"
+      },
+      {
+        "name":"Jobs",
+        "isActive":false,
+        "description":"Jobs is a powerful full-stack application template designed for job seekers and recruiters.",
+        "highlights":[
+          "CV management",
+          "Follow system",
+          "Job openings"
+        ],
+        "url":"https://jobs-polished-meadow-3345.fly.dev/user/elkiki_99"
+      },
+      {
+        "name":"The Edifice Gazette",
+        "isActive":false,
+        "description":"Edifice Gazette is a powerful full-stack application template designed for blogging platforms.",
+        "highlights":[
+          "Subscriptions",
+          "SEO optimized",
+          "Notifications"
+        ],
+        "url":"https://blog-floral-dream-8361.fly.dev/"
+      },
+      {
+        "name":"DevStagram",
+        "isActive":false,
         "description":"A semi-clone of Instagram with user authentication, user panel, and CRUD operations.",
         "highlights":[
           "Livewire",
           "User panel",
           "Tailwind CSS"
-        ],
-        "url":"https://github.com/elkiki99/devstagram"
-      },
-      {
-        "name":"DevJobs",
-        "isActive":false,
-        "description":"A Laravel application built with Blade and Tailwind CSS for job search and application.",
-        "highlights":[
-          "Laravel",
-          "Search filters",
-          "Blade"
         ],
         "url":"https://github.com/elkiki99/devstagram"
       },
@@ -308,28 +340,6 @@
             "MySQL and OOP"
          ],
          "url":"https://github.com/elkiki99/UpTask_MVC"
-      },
-      {
-         "name":"AppSalon",
-         "isActive":"",
-         "description":"Project for a beauty salon with authentication and appointment booking",
-         "highlights":[
-            "Administration panel",
-            "Responsive design",
-            "JavaScript and MVC"
-         ],
-         "url":"https://github.com/elkiki99/appsalon-mvc-php"
-      },
-      {
-         "name":"Real Estate",
-         "isActive":"",
-         "description":"Real estate management project with blog area, properties, and user management",
-         "highlights":[
-            "Database queries",
-            "CRUD panel for Admin",
-            "User authentication"
-         ],
-         "url":"https://github.com/elkiki99/bienes-raices-mvc-oop"
       }
    ]
 }
