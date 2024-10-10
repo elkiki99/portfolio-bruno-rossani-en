@@ -48,7 +48,7 @@
         "area": "Musical Interpretation",
         "studyType": "Classical Guitar",
         "startDate": "2019",
-        "endDate": "2022",
+        "endDate": "2024",
         "score": "",
         "courses": [
           "Applied musical analysis, with solid technical skill in musical performance and outstanding ability to sight-read music.",
@@ -340,6 +340,6 @@
             "MySQL and OOP"
          ],
          "url":"https://github.com/elkiki99/UpTask_MVC"
-      }
+      } 
    ]
 }
